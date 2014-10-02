@@ -27,6 +27,11 @@ Book
 ===========
 [Flask Web Development: Developing Web Applications with Python](https://www.dropbox.com/s/anvys76xc492fte/Flask%20Web%20Development%20-%20Developing%20Web%20Applications%20with%20Python%2C%201st%20Ed%202014.pdf?dl=0)
 
+
+Git Tutorial
+===========
+[Try Git](https://try.github.io/levels/1/challenges/1)
+
 Sharing Your Work
 ===========
 1) Once in Cloud9, create a new file named (yourname).py.
